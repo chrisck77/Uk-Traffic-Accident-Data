@@ -19,6 +19,7 @@ Data Science on Uk traffic data, SQL, Tableau and Python
 - [x] created Derived tables BLD from WRK (joined table)
 
 *note that the vehicle data set --> can be anywhere from 1 up to 20+ vehicles sharing same accident because they are from the same accident*
+
 *Accident vehicle data will have unique accident number for each row*
 
 #### ETL3 Part 2 	Accident file        
