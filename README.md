@@ -10,7 +10,7 @@ Data Science on Uk traffic data, SQL, Tableau and Python
 - [x] data format with excel etc
 
 #### ETL2 	SSIS Load with MVS  
-- [x] auto import into microsoft SQL database \n
+- [x] auto import into microsoft SQL database
 - [x] due dilligence check for errors
 			    
 #### ETL3
@@ -18,9 +18,8 @@ Data Science on Uk traffic data, SQL, Tableau and Python
 - [x] created working table WRK from RAW data
 - [x] created Derived tables BLD from WRK (joined table)
 
-*note that the vehicle data set --> can be anywhere from 1 up to 20+ vehicles sharing same accident because they are from the same accident
-
-Accident vehicle data will have unique accident number for each row*
+*note that the vehicle data set --> can be anywhere from 1 up to 20+ vehicles sharing same accident because they are from the same accident*
+*Accident vehicle data will have unique accident number for each row*
 
 #### ETL3 Part 2 	Accident file        
 - [x] error checking  - filters (WHERE, ISNUMERIC <> 1, LEN, ISDATE)
