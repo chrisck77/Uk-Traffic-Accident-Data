@@ -6,23 +6,26 @@ Data Science on Uk traffic data, SQL, Tableau and Python
 ### ETL - EXTRACT TRANSFORM LOAD
 
 #### ETL1 	Data Wrangling with excel and notepad ++ 
-split file with notepad++, data format with excel etc
+- [x] split file with notepad++
+- [x] data format with excel etc
 
 #### ETL2 	SSIS Load with MVS  
-auto import into microsoft SQL database
-due dilligence check for errors
+- [x] auto import into microsoft SQL database \n
+- [x] due dilligence check for errors
 			    
 #### ETL3
 ##### ETL3 Part 1 MS SQL EXpress      
-created working table WRK from RAW data
-created Derived tables BLD from WRK (joined table)
+- [x] created working table WRK from RAW data
+- [x] created Derived tables BLD from WRK (joined table)
 
-note that the vehicle data set --> can be anywhere from 1 up to 20+ vehicles sharing same accident because they are from the same accident
-Accident vehicle data will have unique accident number for each row
+*note that the vehicle data set --> can be anywhere from 1 up to 20+ vehicles sharing same accident because they are from the same accident
+
+Accident vehicle data will have unique accident number for each row*
 
 #### ETL3 Part 2 	Accident file        
-error checking  - filters (WHERE, ISNUMERIC <> 1, LEN, ISDATE)
-PROC's stored procedures
+- [x] error checking  - filters (WHERE, ISNUMERIC <> 1, LEN, ISDATE)
+- [x] PROC's stored procedures
 	
 ### VISUALISATION with TABLEAU
-Using MS SQL Express to filter accident file back into a csv for opening with Tableau
+- [x] Using MS SQL Express to filter accident file back into a csv for opening with Tableau
+- [ ] TABLEAU Insights
